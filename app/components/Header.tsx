@@ -2,7 +2,7 @@ import A from "./link";
 
 export default function Header() {
   return (
-    <header className="bg-white p-12 w-full flex justify-between">
+    <header className="bg-white p-6 lg:p-8 w-full flex justify-between ">
       <div className="flex space-x-1 items-center ">
         <span className="bg-purple-500 w-4 h-4 inline-block rounded"></span>
 

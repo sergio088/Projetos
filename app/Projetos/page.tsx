@@ -12,7 +12,14 @@ export default function Projetos() {
             url="https://contact-form-xi-ten.vercel.app/"
             github="https://github.com/sergio088/Contact-form"
             tecnologias="Next.js, Tailwind.css, "
-            data="hoje"
+            data="18/06"
+          />
+          <Card
+            titulo="StockFlow"
+            url="https://saas-flame-chi.vercel.app"
+            github="https://github.com/sergio088/SaaS"
+            tecnologias="Next.js, Tailwind.css, Node.js, MySQL"
+            data="25/06"
           />
         </div>
       </div>
