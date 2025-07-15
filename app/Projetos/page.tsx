@@ -16,9 +16,9 @@ export default function Projetos() {
           />
           <Card
             titulo="StockFlow"
-            url="https://saas-flame-chi.vercel.app"
+            url="https://saas-inventory.vercel.app/"
             github="https://github.com/sergio088/SaaS"
-            tecnologias="Next.js, Tailwind.css, Node.js, MySQL"
+            tecnologias="Next.js, TypeScript, Tailwind.css, Node.js, MySQL"
             data="25/06"
           />
         </div>
